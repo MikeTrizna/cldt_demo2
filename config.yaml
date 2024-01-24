@@ -61,6 +61,7 @@ contact: 'team@carpentries.org'
 episodes: 
 - introduction.md
 - new_episode.md
+- one_more.md
 
 # Information for Learners
 learners: 
