@@ -2,8 +2,12 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+# Sample Lesson Title
 
+A description of my lesson
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
+## Prerequisites
+
+- prereq 1
+- prereq 2
 
